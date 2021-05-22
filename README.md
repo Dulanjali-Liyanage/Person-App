@@ -1,7 +1,7 @@
 # Person-App
-Use of React for Front end and Spring boot for back end.
+Use of React for Front end and Spring boot for back end. Mongo db database
 
-# Learn to use React hooks
-# Use Spring boot api
-     using jwt security to secure api calls
-     connect to mongo db database
+     Learn to use React hooks
+     Use Spring boot api
+          using jwt security to secure api calls
+          connect to mongo db database
